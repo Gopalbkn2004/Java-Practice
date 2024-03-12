@@ -1,0 +1,5 @@
+class Exceptionhanding
+{
+	public static void main(String[] are)
+	{
+		
